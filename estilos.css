@@ -1,0 +1,51 @@
+/* General */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contenedor {
+    background-color: #F0F0F0;
+}
+
+
+/* Encabezado */
+.cabecera {
+    background: white;
+    color: #F0F0F0;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+}
+
+/* Tabla y contenido */
+.pc {
+    
+}
+
+.menu_centro {
+    color: red;
+    text-align: center;
+    padding: 15px;
+}
+
+.img_auto {
+    width: 500px;
+    height: 500px;
+    padding-top: 50px;
+}
+
+/* Texto */
+.texto_menu, .pie {
+    color: #FFFFFF;
+    text-align: center;
+}
